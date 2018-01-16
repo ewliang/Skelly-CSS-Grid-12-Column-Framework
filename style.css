@@ -46,6 +46,13 @@ a {
   padding: 3% 6%;
 }
 
+.main-header {
+  width: 100%;
+  max-width: 500px;
+  margin: 5% auto;
+  text-align: center;
+}
+
 .col-1,
 .col-2,
 .col-3,
@@ -64,5 +71,6 @@ a {
 }
 
 .inline {
-  display: inline-block;
+  position: relative;
+  display: inline-block !important;
 }
