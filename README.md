@@ -3,7 +3,10 @@ A super lightweight, responsive, and modern CSS grid made from the CSS Grid disp
 
 Developed by Eric Liang
 
-## Skelly Grid
+## Skelly Grid 
+
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/price/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()
+[![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg)]()
 
 Skelly Grid is a 12-column CSS grid system is made for creating responsive websites.
 
