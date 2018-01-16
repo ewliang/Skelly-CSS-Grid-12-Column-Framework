@@ -3,7 +3,7 @@ A super lightweight, responsive, and modern CSS grid made from the CSS Grid disp
 
 Developed by Eric Liang
 
-## Skelly Grid 
+## About Skelly Grid
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/price/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/AFNetworking.svg)]()
@@ -14,6 +14,12 @@ All you need is to include the skelly-grid.css file in your website.
 
 Because Bootstrap is a framework well-known by many, I've decided to use most of the class names found in Bootstrap to help lower the learning curve.
 After all, innovation is supposed to make life easier, not harder. Being productive is important, especially when our greatest asset is time.
+
+## To Do
+
+- Add more container size options
+- Create SASS/SCSS versions
+- Minimize code
 
 ## License
 
