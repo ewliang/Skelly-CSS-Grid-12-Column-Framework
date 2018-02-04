@@ -17,9 +17,9 @@ After all, innovation is supposed to make life easier, not harder. Being product
 
 ## To Do
 
-- Add more container size options
-- Create SASS/SCSS versions
-- Minimize code
+- [] Add more container size options
+- [x] Create SASS/SCSS versions
+- [x] Minimize code -> Solved with Sass Version
 
 ## License
 
