@@ -6,70 +6,56 @@
   v. 1.0
   https://github.com/ewliang/Skelly
 */
-
 /***************************/
 /* Skelly Grid Source Code */
 /***************************/
-
 /*
   Table of Contents
   1. Container
   2. Columns
 */
-
 /* Container */
 .container {
   max-width: 960px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-}
+  grid-template-columns: repeat(12, 1fr); }
 
 /* Columns */
 .col-1 {
-  grid-column: auto/span 1;
-}
+  grid-column: auto/span 1; }
 
 .col-2 {
-  grid-column: auto/span 2;
-}
+  grid-column: auto/span 2; }
 
 .col-3 {
-  grid-column: auto/span 3;
-}
+  grid-column: auto/span 3; }
 
 .col-4 {
-  grid-column: auto/span 4;
-}
+  grid-column: auto/span 4; }
 
 .col-5 {
-  grid-column: auto/span 5;
-}
+  grid-column: auto/span 5; }
 
 .col-6 {
-  grid-column: auto/span 6;
-}
+  grid-column: auto/span 6; }
 
 .col-7 {
-  grid-column: auto/span 7;
-}
+  grid-column: auto/span 7; }
 
 .col-8 {
-  grid-column: auto/span 8;
-}
+  grid-column: auto/span 8; }
 
 .col-9 {
-  grid-column: auto/span 9;
-}
+  grid-column: auto/span 9; }
 
 .col-10 {
-  grid-column: auto/span 10;
-}
+  grid-column: auto/span 10; }
 
 .col-11 {
-  grid-column: auto/span 11;
-}
+  grid-column: auto/span 11; }
 
 .col-12 {
-  grid-column: auto/span 12;
-}
+  grid-column: auto/span 12; }
+
+/*# sourceMappingURL=skelly-grid.css.map */

@@ -1,0 +1,38 @@
+/*
+  Skelly Grid - A Responsive 12 Column Grid System Based on CSS Grid
+  -------------------------
+  Copyright by Eric Liang
+  Open Source License: MIT
+  v. 1.0
+  https://github.com/ewliang/Skelly
+*/
+
+/***************************/
+/* Skelly Grid Source Code */
+/***************************/
+
+/*
+  Table of Contents
+  1. Container
+  2. Columns
+*/
+
+$containerWidth: 960px;
+$columns: 12;
+
+/* Container */
+
+.container {
+  max-width: $containerWidth;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat($columns, 1fr);
+}
+
+/* Columns */
+
+@for $i from 1 through $columns {
+  .col-#{$i} {
+    grid-column: auto / span $i;
+  }
+}
