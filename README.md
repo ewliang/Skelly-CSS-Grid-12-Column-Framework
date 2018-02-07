@@ -10,7 +10,7 @@ Developed by Eric Liang
 
 Skelly Grid is a 12-column CSS grid system is made for creating responsive websites.
 
-Sample Demo: [https://ewliang.github.io/Skelly-Grid-12-Column-Framework/](https://ewliang.github.io/Skelly-Grid-12-Column-Framework/)
+Sample Demo: [https://ewliang.github.io/Skelly-CSS-Grid-12-Column-Framework/](https://ewliang.github.io/Skelly-Grid-12-Column-Framework/)
 
 All you need is to include the skelly-grid.css file in your website.
 
